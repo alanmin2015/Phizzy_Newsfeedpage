@@ -15,7 +15,7 @@
 .newsfeed-header {
   top: 0px;
   left: 0px;
-  width: 390px;
+  width: 100%;
   height: 133px;
   display: flex;
   position: fixed;
@@ -27,7 +27,7 @@
 .newsfeed-header1 {
   top: 0px;
   left: 0px;
-  width: 390px;
+  width: 100%;
   height: 133px;
   display: flex;
   position: absolute;
@@ -39,7 +39,7 @@
 .newsfeed-rectangle7 {
   top: 88.29412078857422px;
   left: 0px;
-  width: 195px;
+  width: 50%;
   height: 45px;
   display: flex;
   position: absolute;
@@ -50,7 +50,7 @@
 
 }
 .newsfeed-text {
-  left: 76.61px;
+  left: 45%;
   color: rgb(0, 0, 0);
   width: 54px;
   bottom: 13px;
@@ -68,15 +68,15 @@
 }
 .newsfeed-rectangle9 {
   top: 88.29412078857422px;
-  left: 195px;
-  width: 195px;
+  left: 50%;
+  width: 50%;
   height: 45px;
   display: flex;
   position: absolute;
   border-color: transparent;
 }
 .newsfeed-text01 {
-  left: 65px;
+  left: 38%;
   color: rgba(0, 0, 0, 1);
   width: 54px;
   bottom: 13px;
@@ -96,7 +96,7 @@
 }
 .newsfeed-group121 {
   top: 33px;
-  left: 133px;
+  left: 35%;
   width: 120px;
   height: 52px;
   display: flex;
@@ -126,7 +126,7 @@
 .newsfeed-newsfeed1 {
   top: 133px;
   left: -1px;
-  width: 394px;
+  width: 100%;
   height: 429px;
   display: flex;
   position: absolute;
@@ -137,7 +137,7 @@
 .newsfeed-container01 {
   top: 0px;
   left: 0px;
-  width: 392px;
+  width: 100%;
   height: 65px;
   display: flex;
   position: absolute;
@@ -205,7 +205,7 @@
 .newsfeed-container02 {
   top: 95px;
   left: 13.0625px;
-  width: 367.953125px;
+  width: 100%;
   height: 214px;
   display: flex;
   position: absolute;
@@ -233,7 +233,7 @@
 .newsfeed-rectangle119 {
   top: 40px;
   left: 0px;
-  width: 179px;
+  width: 174px;
   height: 174px;
   position: absolute;
   border-color: transparent;
@@ -241,8 +241,8 @@
 }
 .newsfeed-rectangle120 {
   top: 40px;
-  right: 0px;
-  width: 179px;
+  right: 21px;
+  width: 174px;
   height: 174px;
   position: absolute;
   border-color: transparent;
@@ -250,7 +250,7 @@
 }
 .newsfeed-rectangle121 {
   left: 0px;
-  width: 392px;
+  width: 100%;
   bottom: 0px;
   height: 106px;
   display: flex;
@@ -262,7 +262,7 @@
 }
 .newsfeed-container03 {
   left: 0px;
-  width: 390px;
+  width: 100%;
   bottom: 0px;
   height: 61px;
   display: flex;
@@ -297,7 +297,7 @@
 .newsfeed-container04 {
   top: 0px;
   left: 0px;
-  width: 390px;
+  width: 100%;
   height: 45px;
   display: flex;
   position: absolute;
@@ -330,7 +330,7 @@
 .newsfeed-newsfeed2 {
   top: 562px;
   left: 0px;
-  width: 394px;
+  width: 100%;
   height: 429px;
   display: flex;
   position: absolute;
@@ -341,7 +341,7 @@
 .newsfeed-container05 {
   top: 0px;
   left: 0px;
-  width: 392px;
+  width: 100%;
   height: 65px;
   display: flex;
   position: absolute;
@@ -406,7 +406,7 @@
 .newsfeed-container06 {
   top: 95px;
   left: 13.0625px;
-  width: 367.953125px;
+  width: 100%;
   height: 214px;
   display: flex;
   position: absolute;
@@ -442,7 +442,7 @@
 }
 .newsfeed-rectangle1201 {
   top: 40px;
-  right: 0px;
+  right: 21px;
   width: 179px;
   height: 174px;
   position: absolute;
@@ -451,7 +451,7 @@
 }
 .newsfeed-rectangle1211 {
   left: 0px;
-  width: 392px;
+  width: 100%;
   bottom: 0px;
   height: 106px;
   display: flex;
@@ -463,7 +463,7 @@
 }
 .newsfeed-container07 {
   left: 0px;
-  width: 390px;
+  width: 100%;
   bottom: 0px;
   height: 61px;
   display: flex;
@@ -498,7 +498,7 @@
 .newsfeed-container08 {
   top: 0px;
   left: 0px;
-  width: 390px;
+  width: 100%;
   height: 45px;
   display: flex;
   position: absolute;
@@ -531,7 +531,7 @@
 .newsfeed-newsfeed3 {
   top: 991px;
   left: 0px;
-  width: 390px;
+  width: 100%;
   height: 429px;
   display: flex;
   position: absolute;
@@ -542,7 +542,7 @@
 .newsfeed-container09 {
   top: 0px;
   left: 0px;
-  width: 392px;
+  width: 100%;
   height: 65px;
   display: flex;
   position: absolute;
@@ -607,7 +607,7 @@
 .newsfeed-container10 {
   top: 95px;
   left: 13.0625px;
-  width: 367.953125px;
+  width: 100%;
   height: 214px;
   display: flex;
   position: absolute;
@@ -643,7 +643,7 @@
 }
 .newsfeed-rectangle1202 {
   top: 40px;
-  right: 0px;
+  right: 21px;
   width: 179px;
   height: 174px;
   position: absolute;
@@ -652,7 +652,7 @@
 }
 .newsfeed-rectangle1212 {
   left: 0px;
-  width: 392px;
+  width: 100%;
   bottom: 0px;
   height: 106px;
   display: flex;
@@ -664,7 +664,7 @@
 }
 .newsfeed-container11 {
   left: 0px;
-  width: 390px;
+  width: 100%;
   bottom: 0px;
   height: 61px;
   display: flex;
@@ -699,7 +699,7 @@
 .newsfeed-container12 {
   top: 0px;
   left: 0px;
-  width: 390px;
+  width: 100%;
   height: 45px;
   display: flex;
   position: absolute;
@@ -732,7 +732,7 @@
 .newsfeed-tab  {
   bottom: 0;
   left: 0px;
-  width: 390px;
+  width: 100%;
   height: 80px;
   display: flex;
   position: fixed;
@@ -747,9 +747,10 @@
 .newsfeed-new-tab-bar {
   top: 0px;
   left: 0px;
-  width: 390px;
+  width: 100%;
   height: 80px;
   display: flex;
+  justify-content: space-between;
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
@@ -757,7 +758,8 @@
 }
 .newsfeed-container13 {
   top: 21px;
-  left: 100px;
+  /* left: 100px; */
+  left: 27%; 
   width: 50px;
   height: 40px;
   display: flex;
@@ -792,7 +794,8 @@
 }
 .newsfeed-container14 {
   top: 21px;
-  left: 164px;
+  
+   left: 42%; 
   width: 63px;
   height: 39px;
   display: flex;
@@ -827,7 +830,7 @@
 }
 .newsfeed-container15 {
   top: 16px;
-  left: 320px;
+  left: 82%;
   width: 30px;
   height: 44px;
   display: flex;
@@ -863,7 +866,7 @@
 }
 .newsfeed-container16 {
   top: 23.703125px;
-  left: 234px;
+  left: 60%;
   width: 63px;
   height: 36.296875px;
   display: flex;
@@ -898,7 +901,8 @@
 }
 .newsfeed-container17 {
   top: 23px;
-  left: 33px;
+  left: 8.5%;
+  /* left: 33px;  */
   width: 43.15625px;
   height: 38px;
   display: flex;
@@ -1010,4 +1014,35 @@ body {
   color: var(--dl-color-gray-black);
   background-color: var(--dl-color-gray-white);
 }
+
+
+
+/* Media queries for smaller screens */
+@media only screen and (max-width: 380px) {
+  .newsfeed-rectangle119, .newsfeed-rectangle120,.newsfeed-rectangle1191, .newsfeed-rectangle1201,.newsfeed-rectangle1192,.newsfeed-rectangle1202 {
+    width: 40%;
+    right: 10%;
+  }
+}
+
+@media only screen and (min-width: 500px) {
+  .newsfeed-rectangle119, .newsfeed-rectangle120,.newsfeed-rectangle1191, .newsfeed-rectangle1201,.newsfeed-rectangle1192,.newsfeed-rectangle1202 {
+    width: 45%;
+    height: 100%;
+    
+  }
+  .newsfeed-newsfeed1, .newsfeed-newsfeed2, .newsfeed-newsfeed1{
+    height:500px;
+  }
+  .newsfeed-newsfeed2{
+    top:45%;
+  }
+  .newsfeed-newsfeed3{
+    top:80%;
+  }
+}
+
+
+
+
 
